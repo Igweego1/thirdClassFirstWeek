@@ -14,8 +14,8 @@ namespace thirdClassFirstWeek
 
             Console.WriteLine(numbers[1]);
 
-            bool[] boolarray = new bool[] { true, true, true };
-
+            bool[] boolarray = new bool[] { true, true, false };
+            Console.WriteLine(boolarray[2]);
           
 
         }
